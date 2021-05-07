@@ -1,0 +1,28 @@
+{
+  "blogs": [
+    {
+      "title": "My React Website",
+      "body": "Here's my first React Website!",
+      "author": "Michael",
+      "id": 1
+    },
+    {
+      "title": "Whats next for react?",
+      "body": "I have no clue!",
+      "author": "Not Michael",
+      "id": 2
+    },
+    {
+      "title": "I cant think of a third Title!",
+      "body": "But I figured it out after.",
+      "author": "Michael",
+      "id": 3
+    },
+    {
+      "title": "This one wasnt written by me",
+      "body": "I swear.",
+      "author": "Not Michael",
+      "id": 4
+    }
+  ]
+}
